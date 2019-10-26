@@ -1,0 +1,16 @@
+.image-container {
+  height: 270px;
+  /* max-height: 270px; */
+}
+
+image {
+  height: 100px;
+}
+
+image:hover {
+  height: 150px;
+}
+
+touch:hover {
+  height: 14.5rem;
+}
